@@ -25,3 +25,18 @@ http://rest-samples.ahus1.de/client/rec_i18next.html
 
 Java Internationalization
 https://docs.oracle.com/javase/tutorial/i18n/index.html
+
+
+ADDITIONAL:
+
+http://i18next.com/translate/
+
+https://www.airpair.com/javascript/node-js-tutorial
+
+https://www.reddit.com/r/node/comments/27zlbt/if_youd_have_to_teach_yourself_nodejs_from_zero/
+
+http://nodeschool.io/
+
+https://github.com/i18next/i18next/blob/master/i18next.min.js
+
+https://git-scm.com/book/en/v2/Git-Tools-Submodules
